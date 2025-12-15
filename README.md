@@ -15,8 +15,8 @@
   - Metal
   - Paper
   - Plastic
-  - Trash
-  - Organic waste (if included)
+  - Food waste
+  - Others
 - ✅ Facilitate improved waste segregation to:
   - Enhance recycling processes
   - Minimize landfill usage
@@ -39,7 +39,7 @@
   - Dataset imbalances (if any)
 
 ### 3. Model Development
-- 🧠 Designed and implemented a **Convolutional Neural Network (CNN)** using a deep learning framework (e.g., TensorFlow or PyTorch).
+- 🧠 Designed and implemented a **Convolutional Neural Network (CNN)** using a deep learning framework (TensorFlow, Keras).
 - 🏋️ Split the data into training and test sets.
 - 📊 Trained the CNN model and evaluated it using:
   - Accuracy
@@ -49,10 +49,6 @@
 ---
 
 ## 📈 Results & Evaluation
-- The model demonstrated promising performance in classifying waste materials.
-- Evaluation metrics validated its effectiveness in real-world applications of waste management systems.
+- The model demonstrated good performance in classifying waste materials.
 
----
-
-## 📂 Project Structure
 
